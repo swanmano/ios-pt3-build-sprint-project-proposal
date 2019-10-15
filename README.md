@@ -7,7 +7,7 @@
 ## Requirements
 
 1. Do you want to work Solo or on a Team: `<solo/team>`
-2. App Idea: `<What's the app name?>`
+2. [App Idea](https://github.com/LambdaSchool/iOS-Build-Week-1): `<Which idea do you want to work on?>`
 3. App Description (3-5 sentences):
     1. Explain it to your Grandma or a 5-year old child
 4. Target Audience: (Who would want to use the app?)
