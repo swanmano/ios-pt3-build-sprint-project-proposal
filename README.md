@@ -6,11 +6,14 @@
 
 ## Requirements
 
-1. Do you want to work Solo or on a Team: `<solo/team>`
-2. [App Idea](https://github.com/LambdaSchool/iOS-Build-Week-1): `<Which idea do you want to work on?>`
+1. Do you want to work Solo or on a Team: 
+        It doesn't matter to me.  I don't mind solo but if someone needs a teammate, that works too.
+2. [App Idea](https://github.com/LambdaSchool/iOS-Build-Week-1): 
+        I would like to work on the mortgage calculator
 3. App Description (3-5 sentences):
-    1. Explain it to your Grandma or a 5-year old child
+        I want the primary function of the app to show what happens to the dependent variable of interest paid, when we adjust the independent variables of down payment, additional principle paid monthly, and interest rate.  The user could compare the amount of money they would save in interest if they paid a bit more up front or paid a bit more to the principle with their monthly payments.
 4. Target Audience: (Who would want to use the app?)
+        The target audience is people who are considering taking out a loan for a large purchase.
 
 ## Brainstorming
 
